@@ -1,11 +1,11 @@
-id: ppoffice_icarus
-name: Icarus
+id: ppoffice_icarus_feng
+name: Icarus_feng
 author:
-  name: ppoffice
-  website: https://github.com/ppoffice
+  name: ppoffice_feng
+  website: https://github.com/javaItFeng
 description:
 logo:
-website: https://github.com/ppoffice/hexo-theme-icarus
-repo: https://github.com/halo-dev/halo-theme-icarus
+website: https://github.com/javaItFeng/ppoffice_icarus
+repo: https://github.com/javaItFeng/ppoffice_icarus
 version: 2.6.2
 require: 1.3.0
