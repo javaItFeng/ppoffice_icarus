@@ -607,3 +607,26 @@ figure.highlight .number, figure.highlight .section, figure.highlight .tag, figu
     transform-origin: 0%;
     perspective-origin: top center;
 }
+ 
+.myweixin img.myqrcode {
+    position: absolute;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    width: 7.5rem;
+    max-width: none;
+    height: 7.5rem;
+    transform: scale(0);
+    transform-origin: top center;
+    opacity: 0;
+    border: 0.155rem solid #85949a;
+    border-radius: .25rem;
+    -webkit-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+ 
+.myweixin:hover img.myqrcode {
+    transform: scale(1);
+    opacity: 1;
+}
