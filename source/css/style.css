@@ -627,6 +627,6 @@ figure.highlight .number, figure.highlight .section, figure.highlight .tag, figu
 }
  
 .myweixin:hover img.myqrcode {
-    transform: scale(1);
+    transform: scale(2);
     opacity: 1;
 }
