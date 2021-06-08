@@ -92,8 +92,8 @@
                     <i class="fab fa-telegram"></i>
                 </a>
             </#if>
-            <a class="level-item button is-white is-marginless" target="_blank" title="RSS" href="${atom_url!}">
-                <i class="fas fa-rss"></i>
+            <a class="level-item button is-white is-marginless myweixin" target="_blank" title="RSS" href="${atom_url!}">
+                <i class="fas fa-rss"></i><img class="myqrcode" src="https://fengzhixin.cn/upload/2021/06/gh_de2919639f5c_258-d3aadfc042c842bab9e2a9b04d7eff8b.jpg" alt="IT学习帮"/>
             </a>
         </div>
     </div>
